@@ -1,0 +1,6 @@
+type,explanation 
+CT,Credit Transfer (Incoming SEPA Transfer)
+PT,Card Transaction
+DT,Direct Transfer (Outgoing SEPA Transer)
+DD,Direct Debit
+FT,MoneyBeam
